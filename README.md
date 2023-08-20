@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @hatemragab
-- 👀 I’m interested in mobile and backend developing 
-- 🌱 I’m currently learning docker
+- 👀 I’m interested in mobile (flutter) and backend (nestjs) developing 
 - 📫 How to reach me 
 - hatemragapdev@gmail.com
 
