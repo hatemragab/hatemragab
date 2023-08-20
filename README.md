@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hatemragab
+- 👋 Hi, I’m @hatemragab founder of (v_chat_sdk)
 - 👀 I’m interested in mobile (flutter) and backend (nestjs) developing 
 - 📫 How to reach me 
 - hatemragapdev@gmail.com
